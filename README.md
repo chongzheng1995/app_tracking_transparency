@@ -1,3 +1,5 @@
+This is just a copy of [this PR](https://github.com/deniza/app_tracking_transparency/pull/55)
+
 # app_tracking_transparency
 
 [![pub package](https://img.shields.io/pub/v/app_tracking_transparency.svg)](https://pub.dev/packages/app_tracking_transparency)
